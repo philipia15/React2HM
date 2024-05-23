@@ -40,7 +40,7 @@
 
 
 function getRandomNumber() {
-    return parseInt(Math.random() * 10) +1;
+    return parseInt(Math.random() * 6) +1;
 }
 
 let result1 = getRandomNumber();
